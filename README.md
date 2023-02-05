@@ -1,1 +1,1 @@
-# simpele_html_css_website_project
+# simple_html_css_website_project
